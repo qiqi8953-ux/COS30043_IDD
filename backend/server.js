@@ -287,8 +287,6 @@ app.get('/health', (req, res) => {
 // =====================
 // SERVER
 // =====================
-const PORT = process.env.PORT || 3000
-
-app.listen(PORT, () => {
-  console.log(`Server running on ${PORT}`)
+app.listen(3000, () => {
+  console.log('Backend running at http://localhost:3000')
 })
