@@ -13,7 +13,7 @@
       "id": 1,
       "name": "Hilton Hotel Kuching",
       "location": "Hilton Kuching, Jalan Tunku Abdul Rahman, Kuching City Center,93100 Kuching, Sarawak, Malaysia ",
-      "image": "hotels/Hiltonkuching.jpg",
+      "image": "@/public/hotels/Hiltonkuching.jpg",
       "description": "Experience the epitome of luxury and comfort at Hilton Kuching, where impeccable service and stunning views of the city and Sarawak River await you. Our hotel offers a range of elegant rooms and suites, each designed to provide a relaxing retreat with modern amenities. Whether you're here for business or leisure, Hilton Kuching promises an unforgettable stay with its world-class facilities, including a rooftop pool, spa, and multiple dining options that showcase the best of local and international cuisine.",
       "features": [
         "Outdoor swimming pool",
@@ -28,25 +28,25 @@
           "type": "Deluxe Twin Room",
           "description": "A room features two twin beds and floor-to-ceiling windows with views of either the city or the Sarawak River.",
           "price": 490,
-          "image": "@/hotels/Hiltondeluxetwinbedroom.jpg"
+          "image": "@/public/hotels/Hiltondeluxetwinbedroom.jpg"
         },
         {
           "type": "Deluxe King Room",
           "description": "An elegant room is fitted with one king-sized bed and essential amenities like a flat-screen TV and a marble bathroom.",
           "price": 510,
-          "image": "@/hotels/Hiltondeluxekingbedroom.jpg"
+          "image": "@/public/hotels/Hiltondeluxekingbedroom.jpg"
         },
         {
           "type": "Executive Twin Room",
           "description": "A room includes two single beds and provides exclusive access to the Executive Lounge for complimentary breakfast and refreshments.",
           "price": 650,
-          "image": "@/hotels/Hiltonexecutivetwinbedroom.jpg"
+          "image": "@/public/hotels/Hiltonexecutivetwinbedroom.jpg"
         },
         {
           "type": "Executive King Room",
           "description": "A sophisticated suite with a separate living area, premium amenities and exclusive access to the executive lounge for a truly indulgent experience.",
           "price": 670,
-          "image": "@/hotels/Hiltonexecutivekingbedroom.jpg"
+          "image": "@/public/hotels/Hiltonexecutivekingbedroom.jpg"
         }
       ]
     },
@@ -54,7 +54,7 @@
       "id": 2,
       "name": "Sheraton Kuching Hotel",
       "location": "2, Jln Padungan, 93100 Kuching, Sarawak, Malaysia",
-      "image": "@/hotels/Sheraton.webp",
+      "image": "@/public/hotels/Sheraton.webp",
       "features": [
         "Rooftop pool with panoramic city views",
         "Modern fitness centre",
@@ -68,25 +68,25 @@
           "type": "Superior Twin Room",
           "description": "A room includes two twin beds, a separate sitting area, and large windows offering views of the city.",
           "price": 550,
-          "image": "@/hotels/Sheratonsuperiortwinroom.webp"
+          "image": "@/public/hotels/Sheratonsuperiortwinroom.webp"
         },
         {
           "type": "Superior King Room",
           "description": "A room features a king-sized bed, a dedicated workspace, and contemporary decor with city views.",
           "price": 550,
-          "image": "@/hotels/Sheratonsuperiorking.webp"
+          "image": "@/public/hotels/Sheratonsuperiorking.webp"
         },
         {
           "type": "Deluxe Twin Room",
           "description": "A room offers two twin beds and an upgraded bathroom that includes both a walk-in shower and a separate bathtub.",
           "price": 580,
-          "image": "@/hotels/Sheratondeluxetwin.webp"
+          "image": "@/public/hotels/Sheratondeluxetwin.webp"
         },
         {
           "type": "Premier King Room",
           "description": "A corner room features one king bed and offers enhanced panoramic views of the city skyline.",
           "price": 650,
-          "image": "@/hotels/Sheratonpremierking.webp"
+          "image": "@/public/hotels/Sheratonpremierking.webp"
         }
       ]
     },
@@ -94,7 +94,7 @@
       "id": 3,
       "name": "The Waterfront Hotel",
       "location": "68, Jalan Tun Abang Haji Openg, Kuching City Center, 93000 Kuching, Sarawak, Malaysia ",
-      "image": "@/hotels/waterfront.webp",
+      "image": "@/public/hotels/waterfront.webp",
       "features": [
         "Semi-outdoor infinity pool overlooking Padang Merdeka",
         "Fitness centre",
@@ -108,25 +108,25 @@
           "type": "Deluxe Twin Room",
           "description": "A room features two super single beds and a Compound View,making it a quiet retreat for travel partners.",
           "price": 350,
-          "image": "@/hotels/waterfrontdeluxetwin.webp"
+          "image": "@/public/hotels/waterfrontdeluxetwin.webp"
         },
         {
           "type": "Deluxe King Room",
           "description": "A room includes a king-sized bed and a view of the building's interior compound.",
           "price": 350,
-          "image": "@/hotels/waterfrontdeluxeking.webp"
+          "image": "@/public/hotels/waterfrontdeluxeking.webp"
         },
         {
           "type": "Premier Twin Room",
           "description": "A room fitted with two super single beds and offers panoramic views of either the city or the Sarawak River through floor-to-ceiling windows.",
           "price": 400,
-          "image": "@/hotels/waterfrontpremiertwinroom.webp"
+          "image": "@/public/hotels/waterfrontpremiertwinroom.webp"
         },
         {
           "type": "Premier King Room",
           "description": "A room features one king-sized bed and floor-to-ceiling glass windows showcasing the city skyline or river.",
           "price": 400,
-          "image": "@/hotels/waterfrontpremierkingroom.webp"
+          "image": "@/public/hotels/waterfrontpremierkingroom.webp"
         }
       ]
     },
@@ -134,7 +134,7 @@
       "id": 4,
       "name": "Grand Margherita Hotel",
       "location": "Jalan Tunku Abdul Rahman, P.O.Box 2362, Kuching City Center, 93100 Kuching, Sarawak, Malaysia ",
-      "image": "@/hotels/Grandmargherita.webp",
+      "image": "@/public/hotels/Grandmargherita.webp",
       "features": [
         "Outdoor swimming pool",
         "Fitness centre/gym",
@@ -148,25 +148,25 @@
           "type": "Superior King Room",
           "description": "Featuring a plush king bed and a Compound View, this room serves as a quiet retreat for travel partners looking for a peaceful stay.",
           "price": 350,
-          "image": "@/hotels/Grandsuperiorking.webp"
+          "image": "@/public/hotels/Grandsuperiorking.webp"
         },
         {
           "type": "Deluxe King Room",
           "description": "A room features a plush king bed and a Compound View, making it a quiet retreat for travel partners.",
           "price": 380,
-          "image": "@/hotels/Granddeluxeking.JPG"
+          "image": "@/public/hotels/Granddeluxeking.JPG"
         },
         {
           "type": "Deluxe Twin Room",
           "description": "This spacious room features two super single beds and a Compound View, making it a quiet retreat for travel partners. ",
           "price": 380,
-          "image": "@/hotels/Granddeluxetwin.webp"
+          "image": "@/public/hotels/Granddeluxetwin.webp"
         },
         {
           "type": "Executive Deluxe King Room",
           "description": "Offering enhanced space, this room features a plush king bed and a Compound View, making it a quiet retreat for travel partners.",
           "price": 480,
-          "image": "@/hotels/Grandexecutiveking.JPG"
+          "image": "@/public/hotels/Grandexecutiveking.JPG"
         }
       ]
     },
@@ -174,7 +174,7 @@
       "id": 5,
       "name": "Theatre Hotel Kuching",
       "location": "187 Jalan Song Thian Cheok, Kuching City Center, 93100 Kuching, Sarawak, Malaysia ",
-      "image": "@/hotels/Theatrehotelkuching.webp",
+      "image": "@/public/hotels/Theatrehotelkuching.webp",
       "features": [
         "Outdoor swimming pool",
         "Gym",
@@ -189,25 +189,25 @@
           "type": "Deluxe Queen Room",
           "description": "A room includes a queen-sized bed and a view of the building's interior compound.",
           "price": 200,
-          "image": "@/hotels/Theatredeluxequeen.JPG"
+          "image": "@/public/hotels/Theatredeluxequeen.JPG"
         },
         {
           "type": "Deluxe King Room",
           "description": "A room features a plush king bed and a Compound View, making it a quiet retreat for travel partners.",
           "price": 220,
-          "image": "@/hotels/Theatredeluxeking.webp"
+          "image": "@/public/hotels/Theatredeluxeking.webp"
         },
         {
           "type": "Junior Suite",
           "description": "A room features a spacious layout with a seating area and a Compound View, making it a quiet retreat for travel partners.",
           "price": 330,
-          "image": "@/hotels/Theatrejuniorsuite.webp"
+          "image": "@/public/hotels/Theatrejuniorsuite.webp"
         },
         {
           "type": "Family suite",
           "description": "A room features two king-sized beds and a Compound View, making it a quiet retreat for travel partners.",
           "price": 380,
-          "image": "@/hotels/Theatrefamilysuite.webp"
+          "image": "@/public/hotels/Theatrefamilysuite.webp"
         }
       ]
     },
@@ -215,7 +215,7 @@
       "id": 6,
       "name": "Astana Wing - Riverside Majestic Hotel",
       "location": "Jalan Tunku Abdul Rahman P.O.Box 2928,, Kuching City Center, 93100 Kuching, Sarawak, Malaysia",
-      "image": "@/hotels/Astanawing.webp",
+      "image": "@/public/hotels/Astanawing.webp",
       "features": [
         "Outdoor swimming pool",
         "Cardio exercise rooms",
@@ -230,25 +230,25 @@
           "type": "Deluxe Twin Room",
           "description": "This room features two queen beds and a Compound View, making it a quiet retreat for travel partners.",
           "price": 380,
-          "image": "@/hotels/Astanadeluxetwin.webp"
+          "image": "@/public/hotels/Astanadeluxetwin.webp"
         },
         {
           "type": "Deluxe King Room",
           "description": "A room features a plush king bed and a Compound View, making it a quiet retreat for travel partners.",
           "price": 380,
-          "image": "@/hotels/Astanadeluxeking.JPG"
+          "image": "@/public/hotels/Astanadeluxeking.JPG"
         },
         {
           "type": "Executive Deluxe Twin Room",
           "description": "A room features two twin beds and a Compound View, making it a quiet retreat for travel partners, plus exclusive Executive Lounge benefits  like complimentary cocktails",
           "price": 450,
-          "image": "@/hotels/Astanaexecutivetwin.webp"
+          "image": "@/public/hotels/Astanaexecutivetwin.webp"
         },
         {
           "type": "Executive Deluxe King Room",
           "description": "A room features a premium king bed and a Compound View, making it a quiet retreat for travel partners with access to private lounge privileges",
           "price": 450,
-          "image": "@/hotels/Astanaexecutiveking.webp"
+          "image": "@/public/hotels/Astanaexecutiveking.webp"
         }
       ]
     },
@@ -256,7 +256,7 @@
       "id": 7,
       "name": "Pullman Kuching Hotel",
       "location": "Pullman Kuching, Interhill Place, No. 1A, 93100 Kuching, Sarawak, Malaysia ",
-      "image": "@/hotels/Pullman.webp",
+      "image": "@/public/hotels/Pullman.webp",
       "features": [
         "Outdoor swimming pool with city views",
         "Full-service spa with 7 treatment rooms",
@@ -269,25 +269,25 @@
           "type": "Deluxe Twin Room",
           "description": "A room features two super single beds and a Compound View, making it a quiet retreat for travel partners.",
           "price": 450,
-          "image": "@/hotels/Pullmandeluxetwin.JPG"
+          "image": "@/public/hotels/Pullmandeluxetwin.JPG"
         },
         {
           "type": "Deluxe King Room",
           "description": "A room features a plush king-sized bed and a Compound View, making it a quiet retreat for travel partners.",
           "price": 450,
-          "image": "@/hotels/Pullmandeluxeking.JPG"
+          "image": "@/public/hotels/Pullmandeluxeking.JPG"
         },
         {
           "type": "Premium Deluxe Twin Room",
           "description": "A room features two super single beds and a Compound View, making it a quiet retreat for travel partners on higher floors with enhanced views.",
           "price": 550,
-          "image": "@/hotels/Pullmanpremiumtwin.WEBP"
+          "image": "@/public/hotels/Pullmanpremiumtwin.WEBP"
         },
         {
           "type": "Premium Deluxe King Room",
           "description": "A room features a plush king-sized bed and a Compound View, making it a quiet retreat for travel partners on higher floors with enhanced views.",
           "price": 550,
-          "image": "@/hotels/Pullmanpremiumking.WEBP"
+          "image": "@/public/hotels/Pullmanpremiumking.WEBP"
         }
       ]
     },
@@ -295,7 +295,7 @@
       "id": 8,
       "name": "The Ranee Boutique Suites",
       "location": "The Ranee Boutique Suites, No 6 & 7, Main Bazaar, Kuching City Center, 93000 Kuching, Sarawak, Malaysia",
-      "image": "@/hotels/Ranee.webp",
+      "image": "@/public/hotels/Ranee.webp",
       "features": [
         "Chic suites with free WiFi and city or river views",
         "24/7 reception/check-in",
@@ -309,25 +309,25 @@
           "type": "Deluxe Twin Suite",
           "description": "A room features two super single beds and a Compound View, making it a quiet retreat for travel partners.",
           "price": 380,
-          "image": "@/hotels/Raneedeluxetwin.jpg"
+          "image": "@/public/hotels/Raneedeluxetwin.jpg"
         },
         {
           "type": "Deluxe Double Suite",
           "description": "A room features a plush king bed and a Compound View, making it a quiet retreat for travel partners.",
           "price": 380,
-          "image": "@/hotels/Raneedeluxedouble.jpg"
+          "image": "@/public/hotels/Raneedeluxedouble.jpg"
         },
         {
           "type": "Deluxe Family Suite",
           "description": "A room fitted with one queen-sized bed and one king-sized bed, offering panoramic views of either the city or the Sarawak River through floor-to-ceiling windows.",
           "price": 550,
-          "image": "@/hotels/Raneedeluxefamily.webp"
+          "image": "@/public/hotels/Raneedeluxefamily.webp"
         },
         {
           "type": "Executive Suite",
           "description": "A room features a premium king bed and a Compound View, making it a quiet retreat for travel partners seeking extra space and luxury.",
           "price": 500,
-          "image": "@/hotels/Raneeexecutive.webp"
+          "image": "@/public/hotels/Raneeexecutive.webp"
         }
       ]
     },
@@ -335,7 +335,7 @@
       "id": 9,
       "name": "Meritin Kuching Hotel",
       "location": "Meritin Kuching Hotel, 315, Jalan Padungan, 93100 Kuching, Sarawak, Malaysia",
-      "image": "@/hotels/Meritin.webp",
+      "image": "@/public/hotels/Meritin.webp",
       "features": [
         "Business corner with iMacs",
         "Free in-room WiFi",
@@ -348,25 +348,25 @@
           "type": "Superior Twin Room",
           "description": "A room features two super single beds and a Compound View, making it a quiet retreat for travel partners.",
           "price": 150,
-          "image": "@/hotels/Meritinsuperiortwin.jpg"
+          "image": "@/public/hotels/Meritinsuperiortwin.jpg"
         },
         {
           "type": "Superior Queen Room",
           "description": "A  room features a comfortable queen bed and a Compound View, making it a quiet retreat for travel partners.",
           "price": 150,
-          "image": "@/hotels/Meritinsuperiorqueen.webp"
+          "image": "@/public/hotels/Meritinsuperiorqueen.webp"
         },
         {
           "type": "Deluxe Family Room",
           "description": "A  room features two queen beds and a Compound View, making it a quiet retreat for families or groups.",
           "price": 380,
-          "image": "@/hotels/Meritindeluxefamily.webp"
+          "image": "@/public/hotels/Meritindeluxefamily.webp"
         },
         {
           "type": "Premier Double Room",
           "description": "A rroom features one queen and one king bed with a Compound View, making it a quiet retreat for travel partners seeking extra space.",
           "price": 250,
-          "image": "@/hotels/Meritinpremierdouble.webp"
+          "image": "@/public/hotels/Meritinpremierdouble.webp"
         }
       ]
     },
@@ -374,7 +374,7 @@
       "id": 10,
       "name": "Imperial Riverbank Hotel",
       "location": "Imperial Riverbank Hotel, Jalan Tunku Abdul Rahman, Kuching City Center, 93100 Kuching, Sarawak,Malaysia",
-      "image": "@/hotels/Imperial.webp",
+      "image": "@/public/hotels/Imperial.webp",
       "features": [
         "24/7 front desk",
         "Free WiFi"
@@ -385,13 +385,13 @@
           "type": "Superior King Room",
           "description": "A room features a plush king bed and a Compound View, making it a quiet retreat for travel partners.",
           "price": 150,
-          "image": "@/hotels/Imperialsuperiorking.jpg"
+          "image": "@/public/hotels/Imperialsuperiorking.jpg"
         },
         {
           "type": "Deluxe Twin Room",
           "description": "A room features two super single beds and a Compound View, making it a quiet retreat for travel partners.",
           "price": 170,
-          "image": "@/hotels/Imperialdeluxetwin.jpg"
+          "image": "@/public/hotels/Imperialdeluxetwin.jpg"
         }
       ]
     },
@@ -399,7 +399,7 @@
       "id": 11,
       "name": "Legacy Hill Hotel",
       "location": "Legacy Hill Hotel, Lot 395, Jalan Ban Hock, 93100 Kuching, Sarawak, Malaysia",
-      "image": "@/hotels/Legacy.jpg",
+      "image": "@/public/hotels/Legacy.jpg",
       "features": [
         "Fitness centre",
         "24/7 front desk",
@@ -412,13 +412,13 @@
           "type": "Deluxe Twin Room",
           "description": "A room features two super single beds and a Compound View, making it a quiet retreat for travel partners.",
           "price": 150,
-          "image": "@/hotels/Legacydeluxetwin.jpg"
+          "image": "@/public/hotels/Legacydeluxetwin.jpg"
         },
         {
           "type": "Deluxe Queen Room",
           "description": "A room features a comfortable queen bed and a Compound View, making it a quiet retreat for travel partners.",
           "price": 150,
-          "image": "@/hotels/Legacydeluxequeen.jpg"
+          "image": "@/public/hotels/Legacydeluxequeen.jpg"
         }
       ]
     },
@@ -426,7 +426,7 @@
       "id": 12,
       "name": "Roxy Hotel Padungan",
       "location": "Roxy Hotel Padungan, No 256, Jalan Padungan, Kuching City Center, 93100 Kuching, Sarawak,Malaysia",
-      "image": "@/hotels/Roxy.webp",
+      "image": "@/public/hotels/Roxy.webp",
       "features": [
         "24/7 front desk",
         "Free WiFi",
@@ -439,19 +439,19 @@
           "type": "Deluxe Twin Room",
           "description": "A room features two super single beds and a Compound View, making it a quiet retreat for travel partners.",
           "price": 150,
-          "image": "@/hotels/Roxydeluxetwin.jpg"
+          "image": "@/public/hotels/Roxydeluxetwin.jpg"
         },
         {
           "type": "Deluxe King Room",
           "description": "A room features a plush king bed and a Compound View, making it a quiet retreat for travel partners.",
           "price": 150,
-          "image": "@/hotels/Roxydeluxeking.webp"
+          "image": "@/public/hotels/Roxydeluxeking.webp"
         },
         {
           "type": "Deluxe Triple Room",
           "description": "A room features three comfortable beds and a Compound View, making it a quiet retreat for groups or small families",
           "price": 210,
-          "image": "@/hotels/Roxydeluxetriple.webp"
+          "image": "@/public/hotels/Roxydeluxetriple.webp"
         }
       ]
     },
@@ -459,7 +459,7 @@
       "id": 13,
       "name": "Kingwood Hotel Kuching",
       "location": "Kingwood Hotel, Lot 618, Section 62, KTLD, Jalan Padungan, 93100 Kuching, Sarawak, Malaysia",
-      "image": "@/hotels/Kingwood.webp",
+      "image": "@/public/hotels/Kingwood.webp",
       "features": [
         "24/7 reception",
         "Free self-parking",
@@ -471,25 +471,25 @@
           "type": "Kingwood Standard Twin Room",
           "description": "A room features two super single beds and a Compound View, making it a quiet retreat for travel partners.",
           "price": 130,
-          "image": "@/hotels/KingwoodStandardTwin.webp"
+          "image": "@/public/hotels/KingwoodStandardTwin.webp"
         },
         {
           "type": "Kingwood Standard Queen Room",
           "description": "A room features a comfortable queen bed and a Compound View, making it a quiet retreat for travel partners.",
           "price": 130,
-          "image": "@/hotels/KingwoodStandardQueen.webp"
+          "image": "@/public/hotels/KingwoodStandardQueen.webp"
         },
         {
           "type": "Kingwood Deluxe King Room",
           "description": "A room features a plush king bed and a Compound View, making it a quiet retreat for travel partners seeking extra comfort.",
           "price": 170,
-          "image": "@/hotels/KingwoodDeluxeKing.webp"
+          "image": "@/public/hotels/KingwoodDeluxeKing.webp"
         },
         {
           "type": "Kingwood Super Deluxe Room",
           "description": "A room features a premium king bed and a Compound View, making it a quiet retreat for travel partners with a more spacious layout.",
           "price": 200,
-          "image": "@/hotels/KingwoodSuperDeluxe.webp"
+          "image": "@/public/hotels/KingwoodSuperDeluxe.webp"
         }
       ]
     },
@@ -497,7 +497,7 @@
       "id": 14,
       "name": "Merdeka Palace Hotel & Suites",
       "location": "Merdeka Palace Hotel & Suites, Jalan Tun Abang Haji Openg, Taman Budaya, 93000 Kuching, Sarawak, Malaysia",
-      "image": "@/hotels/Merdeka.webp",
+      "image": "@/public/hotels/Merdeka.webp",
       "features": [
         "Outdoor swimming pool",
         "Children's pool",
@@ -514,19 +514,19 @@
           "type": "Standard Twin Room",
           "description": "A room features two super single beds and a Compound View, making it a quiet retreat for travel partners.",
           "price": 180,
-          "image": "@/hotels/MerdekaStandardTwin.webp"
+          "image": "@/public/hotels/MerdekaStandardTwin.webp"
         },
         {
           "type": "Deluxe Double",
           "description": " A room features a plush king bed and a Compound View, making it a quiet retreat for travel partners.",
           "price": 210,
-          "image": "@/hotels/MerdekaDeluxeDouble.webp"
+          "image": "@/public/hotels/MerdekaDeluxeDouble.webp"
         },
         {
           "type": "Two Bedroom Apartment Suite",
           "description": "A room features one queen bed and two single beds with a Compound View, making it a quiet retreat for families or groups.",
           "price": 450,
-          "image": "@/hotels/Merdekaapartment.webp"
+          "image": "@/public/hotels/Merdekaapartment.webp"
         }
       ]
     },
@@ -534,7 +534,7 @@
       "id": 15,
       "name": "Raia Hotel & Convention Centre Kuching",
       "location": "Raia Hotel & Convention Centre, No.1 Jalan Lapangan Terbang, 93250 Kuching, Sarawak, Malaysia",
-      "image": "@/hotels/Raia.webp",
+      "image": "@/public/hotels/Raia.webp",
       "features": [
         "Gender-segregated swimming pools,",
         "Fitness centre",
@@ -550,19 +550,19 @@
           "type": "Studio Suite",
           "description": "A room features a plush king bed and a Compound View, making it a quiet retreat for travel partners with a spacious open-plan layout.",
           "price": 350,
-          "image": "@/hotels/RaiaStudio.webp"
+          "image": "@/public/hotels/RaiaStudio.webp"
         },
         {
           "type": "Executive Suite",
           "description": "A room features a plush king bed and a Compound View, making it a quiet retreat for travel partners seeking extra luxury.",
           "price": 400,
-          "image": "@/hotels/RaiaExecutive.webp"
+          "image": "@/public/hotels/RaiaExecutive.webp"
         },
         {
           "type": "Family Suite",
           "description": "A room features one king and two single beds with a Compound View, making it a quiet retreat for families or groups.",
           "price": 480,
-          "image": "@/hotels/RaiaFamily.webp"
+          "image": "@/public/hotels/RaiaFamily.webp"
         }
       ]
     },
@@ -570,7 +570,7 @@
       "id": 16,
       "name": "Rume Hotel",
       "location": "Rume Hotel, 95, Gala City, Jalan Tun Jugah, 93350 Kuching, Sarawak, Malaysia",
-      "image": "@/hotels/Rume.webp",
+      "image": "@/public/hotels/Rume.webp",
       "features": [
         "24/7 front desk",
         "Free WiFi",
@@ -582,19 +582,19 @@
           "type": "Executive Twin Room",
           "description": "A room features two super single beds and a Compound View, making it a quiet retreat for travel partners.",
           "price": 220,
-          "image": "@/hotels/RumeExecutiveTwin.webp"
+          "image": "@/public/hotels/RumeExecutiveTwin.webp"
         },
         {
           "type": "Executive King Room",
           "description": "A room features a plush king bed and a Compound View, making it a quiet retreat for travel partners.",
           "price": 220,
-          "image": "@/hotels/RumeExecutiveKing.webp"
+          "image": "@/public/hotels/RumeExecutiveKing.webp"
         },
         {
           "type": "Executive Triple Room",
           "description": "A room features one queen and one single bed with a Compound View, making it a quiet retreat for travel partners.",
           "price": 330,
-          "image": "@/hotels/RumeExecutiveTriple.webp"
+          "image": "@/public/hotels/RumeExecutiveTriple.webp"
         }
       ]
     },
@@ -602,7 +602,7 @@
       "id": 17,
       "name": "The Borneo Hotel",
       "location": "30 C-F, Jalan Tabuan, 93100 Kuching, Sarawak, Malaysia",
-      "image": "@/hotels/Borneo.webp",
+      "image": "@/public/hotels/Borneo.webp",
       "features": [
         "24/7 reception",
         "24-hour security",
@@ -615,19 +615,19 @@
           "type": "Deluxe Queen Room",
           "description": "A room features a comfortable queen bed and a Compound View, making it a quiet retreat for travel partners.",
           "price": 150,
-          "image": "@/hotels/BorneoDeluxeQueen.webp"
+          "image": "@/public/hotels/BorneoDeluxeQueen.webp"
         },
         {
           "type": "Deluxe Triple Room",
           "description": "A room features one queen and one single bed with a Compound View, making it a quiet retreat for travel partners.",
           "price": 200,
-          "image": "@/hotels/BorneoDeluxeTriple.webp"
+          "image": "@/public/hotels/BorneoDeluxeTriple.webp"
         },
         {
           "type": "Deluxe Junior Suite",
           "description": "A room features one queen bed and a sofa bed with a Compound View, making it a quiet retreat for travel partners.",
           "price": 250,
-          "image": "@/hotels/BorneoDeluxeJunior.webp"
+          "image": "@/public/hotels/BorneoDeluxeJunior.webp"
         }
       ]
     },
@@ -635,7 +635,7 @@
       "id": 18,
       "name": "Harbour View Hotel",
       "location": "Harbour View Hotel, Temple St, 93100 Kuching, Sarawak, Malaysia",
-      "image": "@/hotels/Harbour.webp",
+      "image": "@/public/hotels/Harbour.webp",
       "features": [
         "24/7 reception",
         "24-hour room service",
@@ -648,13 +648,13 @@
           "type": "Superior Twin Room",
           "description": "A room features two super single beds and a Compound View, making it a quiet retreat for travel partners.",
           "price": 170,
-          "image": "@/hotels/HarbourSuperiorTwin.webp"
+          "image": "@/public/hotels/HarbourSuperiorTwin.webp"
         },
         {
           "type": "Family Deluxe Room",
           "description": "A room features two double beds and a Compound View, making it a quiet retreat for families or groups.",
           "price": 250,
-          "image": "@/hotels/HarbourFamilyDeluxe.webp"
+          "image": "@/public/hotels/HarbourFamilyDeluxe.webp"
         }
       ]
     },
@@ -662,7 +662,7 @@
       "id": 19,
       "name": "56 Hotel Kuching",
       "location": "56 Hotel, Lot 2228 & 2229, Section 64, KTLD, Jalan Tun Jugah, 93350 Kuching, Sarawak, Malaysia",
-      "image": "@/hotels/56.webp",
+      "image": "@/public/hotels/56.webp",
       "features": [
         "Outdoor swimming pool",
         "24/7 reception,",
@@ -675,13 +675,13 @@
           "type": "Family Room",
           "description": " A room features one king and one queen bed with a Compound View, making it a quiet retreat for families or groups.",
           "price": 260,
-          "image": "@/hotels/56Family.webp"
+          "image": "@/public/hotels/56Family.webp"
         },
         {
           "type": "Two-Bedroom Apartment",
           "description": "A room features one king and one queen bed with a Compound View, making it a quiet retreat for families or groups seeking extra living space.",
           "price": 380,
-          "image": "@/hotels/56TwoBedroom.webp"
+          "image": "@/public/hotels/56TwoBedroom.webp"
         }
       ]
     },
@@ -689,7 +689,7 @@
       "id": 20,
       "name": "Abell Hotel Kuching",
       "location": "Abell Hotel, Lot H22, Jalan Tunku Abdul Rahman, 93100 Kuching, Sarawak, Malaysia",
-      "image": "@/hotels/Abell.webp",
+      "image": "@/public/hotels/Abell.webp",
       "features": [
         "24/7 reception and check-in",
         "Free WiFi",
@@ -701,19 +701,19 @@
           "type": "Abell Deluxe King",
           "description": "A room features a plush king bed and a Compound View, making it a quiet retreat for travel partners.",
           "price": 190,
-          "image": "@/hotels/AbellDeluxeKing.webp"
+          "image": "@/public/hotels/AbellDeluxeKing.webp"
         },
         {
           "type": "Deluxe Triple Room",
           "description": " A room features three single beds and a Compound View, making it a quiet retreat for travel partners.",
           "price": 250,
-          "image": "@/hotels/AbellDeluxeTriple.webp"
+          "image": "@/public/hotels/AbellDeluxeTriple.webp"
         },
         {
           "type": "Family Deluxe Room",
           "description": "A room features one queen and one single bed with a Compound View, making it a quiet retreat for travel partners.",
           "price": 250,
-          "image": "@/hotels/AbellFamilyDeluxe.webp"
+          "image": "@/public/hotels/AbellFamilyDeluxe.webp"
         }
       ]
     },
@@ -721,7 +721,7 @@
       "id": 21,
       "name": "DeHome Boutique Hotel",
       "location": "DeHome Boutique Hotel, No 175, 175A-C, Jalan Sekama, 93300 Kuching, Sarawak, Malaysia",
-      "image": "@/hotels/DeHome.webp",
+      "image": "@/public/hotels/DeHome.webp",
       "features": [
         "24/7 reception",
         "Free WiFi",
@@ -733,19 +733,19 @@
           "type": "Superior Twin Room",
           "description": "A room features two super single beds and a Compound View, making it a quiet retreat for travel partners.",
           "price": 150,
-          "image": "@/hotels/DeHomeSuperiorTwin.webp"
+          "image": "@/public/hotels/DeHomeSuperiorTwin.webp"
         },
         {
           "type": "Deluxe Double Room",
           "description": " A room features a comfortable queen bed and a Compound View, making it a quiet retreat for travel partners.",
           "price": 150,
-          "image": "@/hotels/DeHomeDeluxeDouble.webp"
+          "image": "@/public/hotels/DeHomeDeluxeDouble.webp"
         },
         {
           "type": "Deluxe Triple Room",
           "description": "A room features one queen and one single bed with a Compound View, making it a quiet retreat for travel partners.",
           "price": 180,
-          "image": "@/hotels/DeHomeDeluxeTriple.webp"
+          "image": "@/public/hotels/DeHomeDeluxeTriple.webp"
         }
       ]
     }
