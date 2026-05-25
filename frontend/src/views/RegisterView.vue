@@ -201,7 +201,7 @@ const register = async () => {
 
   try {
     let response = await fetch(
-      'http://localhost:3000/api/register',
+      'https://cos30043-idd-backend.onrender.com/api/register',
       {
         method: 'POST',
         headers: {
