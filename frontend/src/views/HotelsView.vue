@@ -296,7 +296,7 @@ const goToPage = (page) => {
   height: 420px;
   background:
     linear-gradient(rgba(0,0,0,.55), rgba(0,0,0,.55)),
-    url("src/assets/hero/Kuchingevening.jpg");
+    url("@/assets/hero/Kuchingevening.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
