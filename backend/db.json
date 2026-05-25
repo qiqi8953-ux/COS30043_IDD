@@ -13,7 +13,7 @@
       "id": 1,
       "name": "Hilton Hotel Kuching",
       "location": "Hilton Kuching, Jalan Tunku Abdul Rahman, Kuching City Center,93100 Kuching, Sarawak, Malaysia ",
-      "image": "@/public/hotels/Hiltonkuching.jpg",
+      "image": "hotels/Hiltonkuching.jpg",
       "description": "Experience the epitome of luxury and comfort at Hilton Kuching, where impeccable service and stunning views of the city and Sarawak River await you. Our hotel offers a range of elegant rooms and suites, each designed to provide a relaxing retreat with modern amenities. Whether you're here for business or leisure, Hilton Kuching promises an unforgettable stay with its world-class facilities, including a rooftop pool, spa, and multiple dining options that showcase the best of local and international cuisine.",
       "features": [
         "Outdoor swimming pool",
