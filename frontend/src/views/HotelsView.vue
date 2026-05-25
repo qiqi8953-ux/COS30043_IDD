@@ -185,7 +185,7 @@ const hotelsPerPage = 6
 
 onMounted(async () => {
   try {
-    const res = await api.get('/hotels')
+    const res = await api.get('/api/hotels')
     hotels.value = res.data
   } catch (error) {
     console.log(error)

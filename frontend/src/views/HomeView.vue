@@ -217,7 +217,7 @@ const loading = ref(true)
 
 onMounted(async () => {
   try {
-    const res = await api.get('/hotels')
+    const res = await api.get('/api/hotels')
     hotels.value = res.data
   } catch (error) {
     console.log(error)
@@ -248,7 +248,7 @@ const filteredHotels = computed(() => {
       rgba(0,0,0,.55),
       rgba(0,0,0,.55)
     ),
-    url("src/assets/hero/Kuchingcity.jpg");
+    url("@/assets/hero/Kuchingcity.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
