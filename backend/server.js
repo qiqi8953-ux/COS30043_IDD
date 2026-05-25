@@ -277,6 +277,13 @@ app.get('/api/bookings', (req, res) => {
   res.json(db.bookings)
 })
 
+app.get('/health', (req, res) => {
+  res.status(200).json({
+    status: 'OK',
+    message: 'Backend is running'
+  })
+})
+
 // =====================
 // SERVER
 // =====================
