@@ -33,6 +33,19 @@
       "nights": 2,
       "date": "2026-05-26",
       "checkoutDate": "2026-05-28"
+    },
+    {
+      "user": "qiqi8953@gmail.com",
+      "hotelId": "1",
+      "customerName": "77",
+      "hotelName": "Hilton Hotel Kuching",
+      "roomType": "Executive King Room",
+      "roomImage": "/src/assets/hotels/Hiltonexecutivekingbedroom.jpg",
+      "roomPrice": 670,
+      "totalPrice": 670,
+      "nights": 1,
+      "date": "2026-05-26",
+      "checkoutDate": "2026-05-27"
     }
   ],
   "hotels": [
